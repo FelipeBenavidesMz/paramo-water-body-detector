@@ -1,0 +1,14 @@
+earthengine-api
+ipyleaflet
+ipywidgets
+geopandas
+rasterio
+shapely
+requests
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+fiona
+scikit-image
